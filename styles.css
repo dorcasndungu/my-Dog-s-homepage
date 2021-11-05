@@ -1,0 +1,15 @@
+h1{
+  color:rgb(97, 72, 80);
+  background-color:salmon;
+  font-family: Calibri;
+}
+p{
+  font-size: large;
+}
+ul{
+  line-height: 20px;
+  font-style: italic;
+}
+body{
+  background-color: salmon;
+}
